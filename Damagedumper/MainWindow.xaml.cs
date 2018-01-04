@@ -23,6 +23,7 @@ namespace Damagedumper
         public MainWindow()
         {
             InitializeComponent();
+            Console.WriteLine("hello world");
         }
     }
 }
